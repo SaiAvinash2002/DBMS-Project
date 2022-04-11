@@ -15,5 +15,22 @@ users to create, read, update and delete data in a database. The DBMS essentiall
 The main purpose of maintaining database for Railway Reservation System is to reduce the manual errors involved in the booking and cancelling of tickets and make it convenient for the customers and providers to maintain the data about their customers and also about the seats available at them.Due to automation many loopholes that exist in the manual maintenance of the records can be removed. The speed of obtaining and processing the data will be fast. For future expansion the proposed system can be web enabled so that clients can make vai ious enquiries about trains between stations. Due to this, sometimes a lot of problems occur and they are facing many disputes with customers. To solve the above problem, we design a data base which includes customer details, availability of seats in trains, no.of trains and their details.
   </p>
   <h1> Project Description</h1>
-  <h1> Schema</h1>
+  <p>This project is about creating the database about Railway Reservation System.The railway reservation system facilitates the passengers to enquire about the trains available on the basis of source and destination, booking and cancellation of tickets, enquire about the status of the booked ticket, etc. The aim of case study is to design and develop a database maintaining the records of different trains, train status, and passengers. The record of train includes its 
+number, name, source, destination, and days on which it is available, whereas record of train status includes dates for which tickets can be booked, total number of seats available, and number of seats already booked. </p>
+
+  <h1> Entity Relationship Diagram</h1>
+  
 </html>
+
+
+![image](https://user-images.githubusercontent.com/76832424/162729106-f69292d9-cd30-4817-b96e-05d386ae1a93.png)
+
+# Conclusion
+In our project Railway reservation system we have stored all the information about the Trains 
+scheduled and the users booking tickets and even status of trains, seats etc. This data base is 
+helpful for the applications which facilitate passengers to book the train tickets and check the 
+details of trains and their status from their place itself it avoids inconviniences of going to 
+railway station for each and every query they get. We had considered the most important requriments 
+only, many more features and details can be added to our project inorder to obtain even more user 
+friendly applications. These applications are already in progress and in future they can be 
+upgraded and may become part of amazing technology.
